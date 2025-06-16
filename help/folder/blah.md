@@ -6,7 +6,7 @@ post_excerpt: Key best practices for using Advanced Insights effectively.
 wpseo_title: Advanced Insights Best Practices
 wpseo_metadesc: Learn essential best practices to get the most out of Advanced Insights
 taxonomy:
-    post_tag:
+    kb_tag:
     - knowledge-base
     - home-updater
     - best-practices
